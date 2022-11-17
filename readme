@@ -8,9 +8,9 @@ Out put of gene_maker.py includes: (assuming 3 trait)
 
 	1. gene_output which includes gene information required for .qug input file for Engine.exe
 	2. markers_index.csv: index of genes corresponding to markers
-      3. trait1_index.csv: index of genes corresponding to trait 1
-      4. trait2_index.csv: index of genes corresponding to trait 2
-      5. trait3_index.csv: index of genes corresponding to trait 3
+     	3. trait1_index.csv: index of genes corresponding to trait 1
+     	4. trait2_index.csv: index of genes corresponding to trait 2
+     	5. trait3_index.csv: index of genes corresponding to trait 3
 
 After making .qug file required for Error.exe, we can simulate the initial population. The output Eror.pop will include genotype information of initial population.
 
